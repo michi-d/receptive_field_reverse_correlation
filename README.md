@@ -2,7 +2,7 @@
 
 This repository contains Python code for stimulus generation and data analysis for receptive field reconstruction of visual neurons using white-noise analysis. 
 
-More on the method of reverse correlation of white-noise analysis is, e.g., reviewed in
+More on the method of reverse correlation or white-noise analysis is, e.g., reviewed in
 
 _Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience, vol. 806._
 
